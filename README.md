@@ -1,0 +1,2 @@
+# StrafeDevTestAndroid
+Android test project
